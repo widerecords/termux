@@ -1,0 +1,1 @@
+curl https://drive.google.com/drive/mobile/folders/1D-YdNEOAjtfVmtfqzig_vGX7iW_vebQh?sort=13&direction=a --output termux.tar.xz
